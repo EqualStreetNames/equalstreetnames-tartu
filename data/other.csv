@@ -1,7 +1,6 @@
 name,source,gender,wikidata,type
 "Kaunase puiestee",wikidata,,Q4115712,relation
 Kuradisild,wikidata,,Q6674,way
-"A. H. Tammsaare",,,,way
 "A. H. Tammsaare tänav",,,,relation
 Aardla,,,,way
 "Aardla tänav",,,,relation
@@ -22,7 +21,6 @@ Alevi,,,,way
 Allika,,,,way
 Aniisi,,,,way
 "Anna Haava",,,,way
-Anne,,,,way
 "Anne tänav",,,,relation
 Annelinn,,,,relation
 Annemõisa,,,,way
@@ -48,8 +46,6 @@ Era,,,,way
 Filosoofi,,,,way
 Fortuuna,,,,way
 "Fortuuna tänav",,,,relation
-"Friedebert Tuglase",,,,way
-"Friedrich Reinhold Kreutzwaldi",,,,way
 Gildi,,,,way
 Haki,,,,way
 Haraka,,,,way
@@ -108,8 +104,6 @@ Karmiini,,,,way
 "Kartuli tänav",,,,relation
 Kasarmu,,,,way
 Kase,,,,way
-"Kase põik",,,,relation
-Kasesalu,,,,way
 "Kasesalu tänav",,,,relation
 "Kasesalu tee",,,,way
 "Kastani tänav",,,,relation
@@ -144,7 +138,6 @@ Klaose,,,,way
 Kolde,,,,way
 Kompanii,,,,way
 "Kooli tänav",,,,relation
-Kopli,,,,way
 "Kopli tänav",,,,relation
 Kotka,,,,way
 "Kraavi tänav",,,,relation
@@ -160,13 +153,11 @@ Kruusavälja,,,,way
 Kuldnoka,,,,way
 Kuljuse,,,,way
 Kullerkupu,,,,way
-Kulli,,,,way
 "Kulli tänav",,,,relation
 Kummeli,,,,way
 "Kummeli tänav",,,,relation
 Kungla,,,,way
 Künni,,,,way
-Kure,,,,way
 "Kure tänav",,,,relation
 Kuru,,,,way
 Kuu,,,,way
@@ -252,7 +243,6 @@ Molberti,,,,way
 Mooni,,,,way
 "Munga tänav",,,,relation
 Muraka,,,,way
-Mureli,,,,way
 "Mureli tänav",,,,relation
 Muru,,,,way
 Muuluka,,,,way
@@ -280,7 +270,6 @@ Oksa,,,,way
 Õllemeistri,,,,way
 "Õnne tänav",,,,relation
 Öö,,,,way
-Ööbiku,,,,way
 "Ööbiku tänav",,,,relation
 Ookri,,,,way
 Õpetaja,,,,way
@@ -351,7 +340,6 @@ Rästa,,,,way
 "Raua tänav",,,,relation
 Raudtee,,,,way
 "Raudtee tänav",,,,relation
-Ravila,,,,way
 "Ravila tänav",,,,relation
 "Rebase tänav",,,,relation
 Remmelga,,,,way
@@ -369,7 +357,6 @@ Roheline,,,,way
 Rohu,,,,way
 "Rõõmu — Viira",,,,way
 "Rõõmu tee",,,,relation
-Roopa,,,,way
 "Roopa tänav",,,,relation
 "Roosi tänav",,,,relation
 Ropka,,,,relation+way
@@ -488,7 +475,6 @@ Uueturu,,,,relation
 "Uueturu tänav",,,,relation
 "Uus tänav",,,,relation
 Vaarika,,,,way
-Vaba,,,,way
 "Vaba tänav",,,,relation
 "Vabaduse pst",,,,way
 "Vabaduse puiestee",,,,relation
@@ -521,7 +507,6 @@ Variku,,,,relation
 Varju,,,,way
 Varre,,,,way
 "Varsa tänav",,,,relation
-Vasara,,,,way
 "Vasara põik",,,,way
 "Vasara tänav",,,,relation
 Vase,,,,way
@@ -539,6 +524,5 @@ Vilja,,,,way
 "Vindi tänav",,,,relation
 "Vitamiini tänav",,,,relation
 Voolu,,,,way
-Võru,,,,way
 "Võru tänav",,,,relation
 Võruvälja,,,,way
