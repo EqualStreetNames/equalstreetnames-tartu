@@ -29,7 +29,7 @@ Aroonia,,,,way
 Aru,,,,way
 "Aruheina tee",,,,way
 Arukase,,,,way
-"Aruküla tee",,,,way
+"Aruküla tee",,,,relation
 Astelpaju,,,,way
 Astri,,,,way
 Bajadeeri,,,,way
@@ -51,7 +51,7 @@ Haraka,,,,way
 Hauskari,,,,way
 Heina,,,,way
 Heki,,,,way
-Herne,,,,way
+"Herne tänav",,,,relation
 "Hiie tänav",,,,relation
 Hipodroomi,,,,relation
 "Hipodroomi tee",,,,way
@@ -156,7 +156,6 @@ Künni,,,,way
 "Kure tänav",,,,relation
 Kuru,,,,way
 Kuu,,,,way
-Küüni,,,,way
 "Küüni tänav",,,,relation
 Kuuse,,,,way
 "Küütri tänav",,,,relation
@@ -487,7 +486,7 @@ Varblase,,,,way
 Varju,,,,way
 Varre,,,,way
 "Varsa tänav",,,,relation
-"Vasara põik",,,,way
+"Vasara põik",,,,relation
 "Vasara tänav",,,,relation
 Vase,,,,way
 Västriku,,,,way
