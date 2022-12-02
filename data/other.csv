@@ -2,7 +2,6 @@ name,source,gender,wikidata,type
 "Kaunase puiestee",wikidata,,Q4115712,relation
 Kuradisild,wikidata,,Q6674,way
 "A. H. Tammsaare tänav",,,,relation
-Aardla,,,,way
 "Aardla tänav",,,,relation
 Aardlavälja,,,,way
 Aasa,,,,way
@@ -21,6 +20,7 @@ Alevi,,,,way
 Allika,,,,way
 Aniisi,,,,way
 "Anna Haava",,,,way
+Anne,,,,way
 "Anne tänav",,,,relation
 Annemõisa,,,,way
 Arbi,,,,way
@@ -54,7 +54,6 @@ Heki,,,,way
 "Herne tänav",,,,relation
 "Hiie tänav",,,,relation
 Hipodroomi,,,,relation
-"Hipodroomi tee",,,,way
 "Hobuseraua tänav",,,,relation
 Hommiku,,,,way
 Ida,,,,way
@@ -62,11 +61,13 @@ Idaringtee,,,,relation
 Ignatsi,,,,way
 "Ihaste põik",,,,way
 "Ihaste tee",,,,relation+way
+Iirise,,,,way
 Ilmatari,,,,way
 Ilmatsalu,,,,way
 "Ilmatsalu tänav",,,,relation
 Inglisild,,,,way
 Inseneri,,,,way
+Jaama,,,,way
 "Jaama tänav",,,,relation
 "Jaamamõisa tänav",,,,relation
 "Jaani tänav",,,,relation
@@ -134,12 +135,14 @@ Kolde,,,,way
 Kompanii,,,,way
 "Kooli tänav",,,,relation
 "Kopli tänav",,,,relation
+Kõrvitsa,,,,way
 Kotka,,,,way
 "Kraavi tänav",,,,relation
 "Kraavikalda tänav",,,,relation
 Kreegi,,,,way
 Kressi,,,,way
 Kristalli,,,,way
+Krookuse,,,,way
 "Kroonuaia tänav",,,,relation
 Kruusa,,,,way
 Kruusakuru,,,,way
@@ -371,7 +374,6 @@ Sangviini,,,,way
 Sarapuu,,,,way
 Sassi,,,,way
 "Sauna tänav",,,,relation
-Savi,,,,way
 "Savi tänav",,,,relation
 Selleri,,,,way
 Selli,,,,way
@@ -417,6 +419,7 @@ Tammenurga,,,,way
 Tammeõie,,,,way
 Tammeoksa,,,,way
 "Tammepärja tänav",,,,relation
+Tammetõru,,,,way
 "Tammetõru tänav",,,,relation
 "Tammiku tänav",,,,relation
 "Tartu — Räpina — Värska",,,,way
@@ -425,6 +428,7 @@ Tasuja,,,,way
 Teaduspargi,,,,way
 Tedre,,,,way
 Teelehe,,,,way
+Teemandi,,,,way
 "Teguri tänav",,,,relation
 "Tehase tänav",,,,relation
 "Tehnika tänav",,,,relation
@@ -455,6 +459,7 @@ Tuvi,,,,way
 Urva,,,,way
 "Uueturu tänav",,,,relation
 "Uus tänav",,,,relation
+"Uus-Ihaste tee",,,,way
 Vaarika,,,,way
 "Vaba tänav",,,,relation
 "Vabaduse pst",,,,way
