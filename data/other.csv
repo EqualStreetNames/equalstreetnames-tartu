@@ -180,7 +180,7 @@ Leete,,,,way
 Leevikese,,,,way
 "Lehe tänav",,,,relation
 "Lehola tänav",,,,relation
-Lembitu,,,,way
+"Lembitu tänav",,,,relation
 "Lemmatsi tänav",,,,relation
 Lepa,,,,way
 Lepalinnu,,,,way
@@ -400,7 +400,7 @@ Sõnajala,,,,way
 "Staadioni tänav",,,,relation
 Supelranna,,,,way
 "Surnuaia tänav",,,,relation
-"Suur kaar",,,,way
+"Suur kaar",,,,relation
 "Taara puiestee",,,,relation
 Tähe,,,,way
 "Tähe põik",,,,way
