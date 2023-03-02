@@ -219,6 +219,7 @@ Magasini,,,,way
 Magistri,,,,way
 Maisi,,,,way
 Malmi,,,,way
+Männi,,,,way
 "Männi tänav",,,,relation
 "Männimetsa tee",,,,way
 "Marja tänav",,,,relation
@@ -341,7 +342,6 @@ Riia,,,,way
 "Riia mnt",,,,way
 "Riia tänav",,,,relation
 Riistapuu,,,,way
-Ringtee,,,,way
 "Ringtee tänav",,,,relation
 Risti,,,,way
 "Ristikheina tee",,,,way
@@ -460,6 +460,7 @@ Tuvi,,,,way
 "Uppsala tänav",,,,relation
 Urva,,,,way
 "Uueturu tänav",,,,relation
+Uus,,,,way
 "Uus tänav",,,,relation
 "Uus-Ihaste tee",,,,way
 Vaarika,,,,way
