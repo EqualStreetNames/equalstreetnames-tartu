@@ -1,7 +1,8 @@
 name,source,gender,wikidata,type
 "Kaunase puiestee",wikidata,,Q4115712,relation
-Kuradisild,wikidata,,Q6674,way
+Kuradisild,wikidata,,Q6674;Q15193,way
 "A. H. Tammsaare tänav",,,,relation
+Aardla,,,,way
 "Aardla tänav",,,,relation
 Aardlavälja,,,,way
 Aasa,,,,way
@@ -29,7 +30,7 @@ Aroonia,,,,way
 Aru,,,,way
 "Aruheina tee",,,,way
 Arukase,,,,way
-"Aruküla tee",,,,relation
+"Aruküla tee",,,,relation+way
 Astelpaju,,,,way
 Astri,,,,way
 Bajadeeri,,,,way
