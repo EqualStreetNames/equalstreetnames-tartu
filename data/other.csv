@@ -21,7 +21,6 @@ Alevi,,,,way
 Allika,,,,way
 Aniisi,,,,way
 "Anna Haava",,,,way
-Anne,,,,way
 "Anne tänav",,,,relation
 Annemõisa,,,,way
 Arbi,,,,way
@@ -36,19 +35,17 @@ Astri,,,,way
 Bajadeeri,,,,way
 "Betooni tänav",,,,relation
 Bordoo,,,,way
-Eha,,,,way
+"Eha tänav",,,,relation
 Ehitaja,,,,way
 Elulõnga,,,,way
 Elva,,,,way
-"Emajõe kallasrada",,,,way
 "Emajõe tänav",,,,relation
-Era,,,,way
-Filosoofi,,,,way
+"Era tänav",,,,relation
+"Filosoofi tänav",,,,relation
 Fortuuna,,,,way
 "Fortuuna tänav",,,,relation
-Gildi,,,,way
+"Gildi tänav",,,,relation
 Haki,,,,way
-"Haldja põik",,,,way
 Haraka,,,,way
 Hauskari,,,,way
 Heina,,,,way
@@ -69,7 +66,6 @@ Ilmatsalu,,,,way
 "Ilmatsalu tänav",,,,relation
 Inglisild,,,,way
 Inseneri,,,,way
-Jaama,,,,way
 "Jaama tänav",,,,relation
 "Jaamamõisa tänav",,,,relation
 "Jaani tänav",,,,relation
@@ -79,8 +75,8 @@ Jalaka,,,,way
 "Jalaka tänav",,,,relation
 Jalakakuru,,,,way
 "Jalakakuru põik",,,,way
-Jänese,,,,way
 "Jänese matkarada",,,,way
+"Jänese tänav",,,,relation
 Jõe,,,,way
 Juure,,,,way
 Kaare,,,,way
@@ -107,6 +103,7 @@ Kase,,,,way
 "Kasesalu tee",,,,way
 "Kastani tänav",,,,relation
 Kasteheina,,,,way
+Katla,,,,way
 "Kauna tänav",,,,relation
 "Kaunase pst",,,,way
 Kaupmehe,,,,way
@@ -124,7 +121,7 @@ Kingu,,,,way
 Kirde,,,,way
 Kirsi,,,,way
 "Kitsas tänav",,,,relation
-Kivi,,,,way
+"Kivi tänav",,,,relation
 Kivimi,,,,way
 Klaasi,,,,way
 Klaose,,,,way
@@ -137,8 +134,7 @@ Kolde,,,,way
 "Kompanii tänav",,,,relation
 "Kooli tänav",,,,relation
 "Kopli tänav",,,,relation
-Korterid,,,,way
-Kõrvitsa,,,,way
+"Kõrvitsa tänav",,,,relation
 Kotka,,,,way
 "Kraavi tänav",,,,relation
 "Kraavikalda tänav",,,,relation
@@ -189,11 +185,11 @@ Leevikese,,,,way
 Lepa,,,,way
 Lepalinnu,,,,way
 Lepiku,,,,way
-Liiva,,,,way
+"Liiva tänav",,,,relation
 Liivakuru,,,,way
 Liivamäe,,,,way
 "Lille tänav",,,,relation
-Lina,,,,way
+"Lina tänav",,,,relation
 Linda,,,,way
 Linnu,,,,way
 Lõhmuse,,,,way
@@ -218,11 +214,10 @@ Maarjaturg,,,,relation
 Maasika,,,,way
 Madruse,,,,relation
 "Mäe tänav",,,,relation
-Magasini,,,,way
+"Magasini tänav",,,,relation
 Magistri,,,,way
 Maisi,,,,way
 Malmi,,,,way
-Männi,,,,way
 "Männi tänav",,,,relation
 "Männimetsa tee",,,,way
 "Marja tänav",,,,relation
@@ -243,11 +238,10 @@ Mõisavärava,,,,way
 Molberti,,,,way
 Mooni,,,,way
 "Munga tänav",,,,relation
-Muraka,,,,way
+"Muraka tänav",,,,relation
 "Mureli tänav",,,,relation
 Muru,,,,way
 Muuluka,,,,way
-Muusa,,,,way
 "Muuseumi tee",,,,relation+way
 "N. Lunini põik",,,,way
 "Näituse tänav",,,,relation
@@ -301,7 +295,6 @@ Peetriturg,,,,relation
 Pihlaka,,,,way
 Piima,,,,way
 Piiri,,,,way
-Pikk,,,,way
 "Pikk tänav",,,,relation
 Pintsli,,,,way
 Piparmündi,,,,way
@@ -368,12 +361,11 @@ Rukkilille,,,,way
 "Rüütli tänav",,,,relation
 "Saare tänav",,,,relation
 Sadama,,,,way
-Säde,,,,way
 "Säde tänav",,,,relation
 Saekoja,,,,way
 Saialille,,,,way
 Sakala,,,,way
-Salme,,,,way
+"Salme tänav",,,,relation
 Sälu,,,,way
 "Salutähe tänav",,,,relation
 Sambla,,,,way
@@ -385,7 +377,7 @@ Sassi,,,,way
 "Sauna tänav",,,,relation
 "Savi tänav",,,,relation
 Selleri,,,,way
-Selli,,,,way
+"Selli tänav",,,,relation
 "Sepa tänav",,,,relation
 "Sepakuru tänav",,,,relation
 Sepavälja,,,,way
@@ -404,7 +396,6 @@ Sireli,,,,way
 "Soinaste tänav",,,,relation
 Sõnajala,,,,way
 "Soojuse tee",,,,way
-Soola,,,,way
 "Soola tänav",,,,relation
 "Sõpruse pst",,,,relation+way
 "Sõpruse-Ihaste tee ühendustee",,,,way
@@ -413,7 +404,6 @@ Supelranna,,,,way
 "Surnuaia tänav",,,,relation
 "Suur kaar",,,,relation
 "Taara puiestee",,,,relation
-Tähe,,,,way
 "Tähe põik",,,,way
 "Tähe tänav",,,,relation
 "Tähtvere rulliring",,,,way
@@ -471,7 +461,6 @@ Tuvi,,,,way
 "Uppsala tänav",,,,relation
 Urva,,,,way
 "Uueturu tänav",,,,relation
-Uus,,,,way
 "Uus tänav",,,,relation
 "Uus-Ihaste tee",,,,way
 Vaarika,,,,way
