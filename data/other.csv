@@ -276,6 +276,7 @@ Optika,,,,way
 "Optika tänav",,,,relation
 Orava,,,,way
 "Oru tänav",,,,relation
+Oti,,,,way
 Õuna,,,,way
 Pääsukese,,,,way
 "Pääsusilma tänav",,,,relation
@@ -443,6 +444,7 @@ Tempera,,,,way
 "Tervishoiu tänav",,,,relation
 Tihase,,,,way
 Tiigi,,,,way
+Tiitsu,,,,way
 Timuti,,,,way
 "Tõnissoni plats",,,,way
 Toominga,,,,way
@@ -517,4 +519,3 @@ Vilja,,,,way
 Voolu,,,,way
 "Võru tänav",,,,relation
 Võruvälja,,,,way
-road,,,,way
