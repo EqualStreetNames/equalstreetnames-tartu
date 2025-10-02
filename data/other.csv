@@ -1,6 +1,4 @@
 name,source,gender,wikidata,type
-"Kaunase puiestee",wikidata,,Q4115712,relation
-Kuradisild,wikidata,,Q6674;Q15193,way
 "A. H. Tammsaare tänav",,,,relation
 Aardla,,,,way
 "Aardla tänav",,,,relation
@@ -185,7 +183,7 @@ Leevikese,,,,way
 Lemmiku,,,,way
 Lepa,,,,way
 Lepalinnu,,,,way
-Lepiku,,,,way
+"Lepiku tänav",,,,relation
 "Liiva tänav",,,,relation
 Liivakuru,,,,way
 Liivamäe,,,,way
@@ -199,7 +197,7 @@ Lõkketule,,,,way
 Lõo,,,,way
 Loode,,,,way
 "Lootsi tänav",,,,relation
-Lootuse,,,,way
+"Lootuse tänav",,,,relation
 "Lossi tänav",,,,relation
 "Lõuendi tänav",,,,relation
 Lõuna,,,,way

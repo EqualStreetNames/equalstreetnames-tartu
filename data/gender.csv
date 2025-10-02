@@ -1,4 +1,6 @@
 name,source,gender,wikidata,type
+"Kaunase puiestee",wikidata,-,Q4115712,relation
+Kuradisild,wikidata,-,Q6674;Q15193,way
 "Lydia Koidula",wikidata,F,Q237056,way
 "Ado Vabbe",wikidata,M,Q4102078,way
 "Aleksander Elleri",wikidata,M,Q5789369,way
@@ -23,7 +25,7 @@ name,source,gender,wikidata,type
 "Juhan Liivi tänav",wikidata,M,Q737503,relation
 "Julius Kuperjanovi tänav",wikidata,M,Q937948,relation
 "Kaarel Liimandi",wikidata,M,Q16407617,way
-"Karl August Hermanni",wikidata,M,Q721139,way
+"Karl August Hermanni tänav",wikidata,M,Q721139,relation
 "Karl Ernst von Baeri tänav",wikidata,M,Q57190,relation
 "Kuno Veeberi",wikidata,M,Q17446930,way
 "Lev Tolstoi tänav",wikidata,M,Q7243,relation
